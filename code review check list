@@ -1,0 +1,9 @@
+[] Read the Ticket description
+[] Pull the code in the local machine
+[] Branch and commit names are correct
+[] Code is readable
+[] Styleguides and naming conventions are followed
+[] Folders / Files structure is reasonable
+[] Code is structured well. No classes / functions should be broken down into smaller ones
+[] Covered with tests
+[] Documentation is created
